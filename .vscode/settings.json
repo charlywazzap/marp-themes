@@ -1,0 +1,7 @@
+// Please put `.vscode/settings.json` on your workspace
+{
+    "markdown.marp.themes": [
+  
+    "https://raw.githubusercontent.com/charlywazzap/marp-themes/main/aws_user_theme/aws_user_group.css"
+    ]
+  }
